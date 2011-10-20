@@ -1,0 +1,13 @@
+
+Dependencies
+
+This library uses the "First-Class Containters" contribution by Stéphane
+Lescuyer, which can be downloaded here:
+
+  http://coq.inria.fr/pylons/pylons/contribs/view/Containers/v8.3
+
+An introductory article is available here:
+
+  http://studia.complexica.net/Art/RI090103.pdf (en)
+  http://jfla.inria.fr/2010/actes/PDF/lescuyer.pdf (fr)
+
